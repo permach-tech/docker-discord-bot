@@ -32,9 +32,9 @@ This is a fun project that allows you to containerize your dicsord bot as a dock
     4. <b>Installation Contexts:</b> Guild Install <br>
         <b>Default Install Settings:</b>
         - Scopes: applications.commands, bot
-        - Permissions: Send Messages
-    </details> <br>
+        - Permissions: Send Messages <br>
     5. Copy the link, paste it in your browser, and invite the Bot to your Discord server
+    </details> 
 
    <details>
     <summary>Install Docker on Ubuntu</summary>
