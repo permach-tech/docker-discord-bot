@@ -2,7 +2,7 @@
 
 This is a fun project that allows you to containerize your dicsord bot as a docker container. I run this on a Raspberry Pi 4 Model B.
 
-# Screenshots
+## Screenshots
 <details>
 <summary>Discord Bot in action</summary>
 <br>
@@ -108,8 +108,13 @@ This is a fun project that allows you to containerize your dicsord bot as a dock
     pip install discord.py
     ```
     </details>
-## Usage
-
-## API Endpoints
 
 ## Docker
+1. Build the Docker image
+```bash
+docker build -t discord-bot .
+```
+2. Run the Docker container (make sure to add your bot token from the Discord developer portal)
+```bash
+docker run -d --name fortune-bot -e DISCORD_BOT_TOKEN="{your token here}" discord-bot
+```
