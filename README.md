@@ -4,12 +4,17 @@ This is a fun project that allows you to containerize your dicsord bot as a dock
 
 # Screenshots
 <details>
-<summary>Install Discord Python dependency</summary>
+<summary>Discord Bot in action</summary>
 <br>
 
-![bot-flip](https://github.com/permach-tech/docker-discord-bot/images/bot-flip.png)
+![bot-commands](https://github.com/permach-tech/docker-discord-bot/blob/main/images/bot-commands.png)<br>
+![bot-tarot](https://github.com/permach-tech/docker-discord-bot/blob/main/images/bot-tarot.png)<br>
+![bot-flip](https://github.com/permach-tech/docker-discord-bot/blob/main/images/bot-flip.png) <br>
+![bot-roll](https://github.com/permach-tech/docker-discord-bot/blob/main/images/bot-roll.png)<br>
+![bot-number](https://github.com/permach-tech/docker-discord-bot/blob/main/images/bot-number.png)
 
 </details>
+
 ## Features
 
 - Docker for containerization
