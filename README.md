@@ -35,7 +35,7 @@ This is a fun project that allows you to containerize your dicsord bot as a dock
     git clone https://github.com/permach-tech/docker-discord-bot.git
     cd docker-discord-bot
     ```
-2. Install prequisites:
+2. Prequisites:
     <details>
     <summary>Discord Developer Portal</summary>
     <br>
