@@ -2,6 +2,14 @@
 
 This is a fun project that allows you to containerize your dicsord bot as a docker container. I run this on a Raspberry Pi 4 Model B.
 
+# Screenshots
+<details>
+<summary>Install Discord Python dependency</summary>
+<br>
+
+![bot-flip](https://github.com/permach-tech/docker-discord-bot/images/bot-flip.png)
+
+</details>
 ## Features
 
 - Docker for containerization
